@@ -1,0 +1,9 @@
+name = "connect-dns-worker"
+main = "src/index.ts"
+compatibility_date = "2023-07-10"
+routes = [
+	{ pattern = "connect-dns-worker.workers.chaika.me", custom_domain = true }
+]
+
+
+node_compat = true
