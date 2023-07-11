@@ -44,7 +44,7 @@ const HTML = `<!DOCTYPE html>
     <br>
     
     <label for="server">Server:</label>
-    <input list="servers" id="server" name="server" value="1.1.1.1" required>
+    <input list="servers" id="server" name="server" value="8.8.8.8" required>
     <datalist id="servers">
       <option value="8.8.8.8">Google - 8.8.8.8</option>
       <option value="9.9.9.9">Quad9 - 9.9.9.9</option>
